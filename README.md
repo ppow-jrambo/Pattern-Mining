@@ -1,4 +1,4 @@
-# Pattern-Mining
+# SPMF Bindings for Python 3.5+
 
 
 Description:
